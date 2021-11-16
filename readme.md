@@ -29,10 +29,13 @@ All projects contain build instruction in readme.md file in a root of the projec
 
 ### Next steps are on Windows with EsPy tool
 
+	![EsPy](/espy_script_comment.png)
+
 7. connect to the board
 8. in file manager: copy to esp filesystem main.py and hworld.mpy
 9. in interactive window: send to the board <ctrl>+D to restart
 10. in interactive window:
 	> import webrepl; webrepl.start(password="123456")
 11. connect to esp board with local WebREPL page
-12. enter password and you may use micropython REPL over WiFi 
+12. enter password and you may use micropython REPL over WiFi
+	![WebREPL](/webrepl_local.png)
