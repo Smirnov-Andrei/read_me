@@ -29,7 +29,7 @@ All projects contain build instruction in readme.md file in a root of the projec
 
 ### Next steps are on Windows with EsPy tool
 
-	![CompilingUserModule](/espy_script.png) 
+	![CompilingUserModule](/make_hworld.png)
 
 7. connect to the board
 8. in file manager: copy to esp filesystem main.py and hworld.mpy
