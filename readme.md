@@ -28,9 +28,7 @@ All projects contain build instruction in readme.md file in a root of the projec
 		may be leave esp-board in a AccessPoint mode(connect to eps-board wifi network nedeed)
 
 ### Next steps are on Windows with EsPy tool
-
-	![CompilingUserModule](/make_hworld.png)
-
+![CompilingUserModule](/make_hworld.png)
 7. connect to the board
 8. in file manager: copy to esp filesystem main.py and hworld.mpy
 	![FileManager](/file_manager.png)
