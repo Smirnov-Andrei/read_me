@@ -33,8 +33,8 @@ All projects contain build instruction in readme.md file in a root of the projec
 7. connect to the board
 8. in file manager: copy to esp filesystem main.py and hworld.mpy
 	![FileManager](/file_manager.png)
-9. in interactive window: send to the board <ctrl>+D to restart
-10. in interactive window:
+9. in terminal window: send to the board <ctrl>+D to restart
+10. in terminal window:
 	> import webrepl; webrepl.start(password="123456")
 11. connect to esp board with local WebREPL page
 12. enter password and you may use micropython REPL over WiFi
