@@ -33,6 +33,7 @@ All projects contain build instruction in readme.md file in a root of the projec
 
 7. connect to the board
 8. in file manager: copy to esp filesystem main.py and hworld.mpy
+	![FileManager](/file_manager.png)
 9. in interactive window: send to the board <ctrl>+D to restart
 10. in interactive window:
 	> import webrepl; webrepl.start(password="123456")
