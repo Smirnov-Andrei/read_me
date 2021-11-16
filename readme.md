@@ -1,4 +1,6 @@
-# Links to projects
+#ESP82867 micropython and webREPL Installation Guide
+
+## Links to projects
 
 1. [esp-open-sdk](https://github.com/pfalcon/esp-open-sdk "buildtools for esp8266")
 2. [micropython](https://github.com/micropython/micropython "micropython project")
@@ -8,7 +10,7 @@
 
 All projects contain build instruction in readme.md file in a root of the project.
 
-# Build sequence
+## Build sequence
 
 1. buildtools - gcc for esp8266
 
